@@ -21,5 +21,5 @@ skillset through hands-on projects.
 | Power BI Dashboard | In progress — following `project6_powerbi_guide.md` |
  
 ## 📫 Connect
-- LinkedIn: *(add your profile link)*
+- LinkedIn: [linkedin.com/in/showbabegum](https://www.linkedin.com/in/showbabegum)
 - Open to entry-level Data Analyst / Business Analyst roles
