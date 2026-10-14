@@ -20,5 +20,6 @@ I turn raw data into clear insights and decisions. Currently building my analyti
 | Power BI Dashboard | In progress — following `project6_powerbi_guide.md` |
 
 ## 📫 Connect
+- Email: begumshowba1257@gmail.com
 - LinkedIn: [linkedin.com/in/showbabegum](https://www.linkedin.com/in/showbabegum)
 - Open to Data Analyst, Business Analyst, and Operations roles
