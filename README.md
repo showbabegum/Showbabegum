@@ -1,1 +1,24 @@
-IyBIaSwgSSdtIFNob3diYSDwn5GLCgpNYCoqRGF0YSAmIE9wZXJhdGlvbnMgQW5hbHlzdCoqIMK3IEJCQSBGaW5hbmNlLCBCYXJ1Y2ggQ29sbGVnZSDCtyBOZXcgWW9yayBDaXR5CgpJHR1cm4gcmF3IGRhdGEgaW50byBjbGVhciBpbnNpZ2h0cyBhbmQgZGVjaXNpb25zLiBDdXJyZW50bHkgYnVpbGRpbmcgbXkgYW5hbHl0aWNzCnNraWxsc2V0IHRocm91Z2ggaGFuZHMtb24gcHJvamVjdHMuCgogICAgICAgIAoKIyMg8J+mmu+4jyBTa2lsbHMKCi0gKipBbmFseXNpczoqKiBTUUwsIEV4Y2VsIChwaXZvdCB0YWJsZXMsIGRhc2hib2FyZHMpLCBQeXRob24gKHBhbmRhcywgbWF0cGxvdGxpYikKCi0gKipWaXN1YWxpemF0aW9uOioqIFBvd2VyIEJJLCBDaGFydC5qcwotICoqVG9vbHM6KiogR2l0SHViLCBKdXB5dGVyLXN0eWxlIHJlcG9ydGluZwoKIyMg8J+TiSBMaWJyYXJ5IFByb2plY3RzCnwgUHJvamVjdCB8IFdoYXQgaXQgc2hvd3MgfAp8LS0tfC0tLXwKW1NhbGVzIFBlcmZvcm1hbmNlIEFuYWx5c2lzXShodHRwczovL3Nob3diYWJlZ3VtLmdpdGh1Yi5pby9kYXRhLWFuYWx5c3QtcG9ydGZvbGlvL3Byb2plY3QxX3NhbGVzX2FuYWx5c2lzLmh0bWwpIHwgUmV2ZW51ZSB0cmVuZHMsIHNlYXNvbmFsaXR5LCByZWdpb25hbCAmIGNhdGVnb3J5IGJyZWFrZG93bnMgKFB5dGhvbi9wYW5kYXMpIHwKW0N1c3RvbWVyIENodXJuIEFuYWx5c2lzXShodHRwczovL3Nob3diYWJlZ3VtLmdpdGh1Yi5pby9kYXRhLWFuYWx5c3QtcG9ydGZvbGlvL3Byb2plY3QyX2NodXJuX2FuYWx5c2lzLmh0bWwpIHwgQ2h1cm4gZHJpdmVycyAmIHJldGVudGlvbiBzdHJhdGVneSAoUHl0aG9uL3BhbmRhcykgfApbSW50ZXJhY3RpdmUgU2FsZXMgRGFzaGJvYXJkXShodHRwczovL3Nob3diYWJlZ3VtLmdpdGh1Yi5pby9kYXRhLWFuYWx5c3QtcG9ydGZvbGlvL3Byb2plY3QzX3NhbGVzX2Rhc2hib2FyZC5odG1sKSB8IEZpbHRlcmFibGUgZGFzaGJvYXJkIChDaGFydC5qcykgfApbU1FMIEFuYWx5c2lzXShodHRwczovL3Nob3diYWJlZ3VtLmdpdGh1Yi5pby9kYXRhLWFuYWx5c3QtcG9ydGZvbGlvL3Byb2plY3Q0X3NxbF9hbmFseXNpcy5odG1sKSB8IDEyIHF1ZXJpZXM6IENURXMsIHdpbmRvdyBmdW5jdGlvbnMsIHN1YnF1ZXJpZXMgKFNR TGh0ZSkKfApbRXhjZWwgU2FsZXMgV29ya2Jvb2tdKGh0dHBzOi8vZ2l0aHViLmNvbS9TaG93YmFiZWd1bS9kYXRhLWFuYWx5c3QtcG9ydGZvbGlvL2Jsb2IvbWFpbi9wcm9qZWN0NV9zYWxlc193b3JrYm9vay54bHN4KSB8IEtQSSBkYXNoYm9hcmQgd2l0aCBjaGFydHMgJiBwaXZvdC1zdHlsZSBzdW1tYXJpZXMgfAp8IFBvd2VyIEJJIERhc2hib2FyZCB8IEluIHByb2dyZXNzIOKAlCBmb2xsb3dpbmcgYHByb2plY3Q2X3Bvd2VyYmlfZ3VpZGUubWRgIHwKCiMjIOKfkpUgQ29ubmVjdAotIExpbmtlZEluOiBbbGlua2VkaW4uY29tL2luL3Nob3diYWJlZ3VtXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vc2hvd2JhYmVndW0pCi0gT3BlbiB0byBEYXRhIEFuYWx5c3QsIEJ1c2luZXNzIEFuYWx5c3QsIGFuZCBPcGVyYXRpb25zIHJvbGVzCg==
+# Hi, I'm Showba 👋
+
+**Data & Operations Analyst** · BBA Finance, Baruch College · New York City
+
+I turn raw data into clear insights and decisions. Currently building my analytics skillset through hands-on projects.
+
+## 🛠️ Skills
+- **Analysis:** SQL, Excel (pivot tables, dashboards), Python (pandas, matplotlib)
+- **Visualization:** Power BI, Chart.js
+- **Tools:** GitHub, Jupyter-style reporting
+
+## 📂 Portfolio Projects
+| Project | What it shows |
+|---|---|
+| [Sales Performance Analysis](https://showbabegum.github.io/data-analyst-portfolio/project1_sales_analysis.html) | Revenue trends, seasonality, regional & category breakdowns (Python/pandas) |
+| [Customer Churn Analysis](https://showbabegum.github.io/data-analyst-portfolio/project2_churn_analysis.html) | Churn drivers & retention strategy (Python/pandas) |
+| [Interactive Sales Dashboard](https://showbabegum.github.io/data-analyst-portfolio/project3_sales_dashboard.html) | Filterable dashboard (Chart.js) |
+| [SQL Analysis](https://showbabegum.github.io/data-analyst-portfolio/project4_sql_analysis.html) | 12 queries: CTEs, window functions, subqueries (SQLite) |
+| [Excel Sales Workbook](https://github.com/Showbabegum/data-analyst-portfolio/blob/main/project5_sales_workbook.xlsx) | KPI dashboard with charts & pivot-style summaries |
+| Power BI Dashboard | In progress — following `project6_powerbi_guide.md` |
+
+## 📫 Connect
+- LinkedIn: [linkedin.com/in/showbabegum](https://www.linkedin.com/in/showbabegum)
+- Open to Data Analyst, Business Analyst, and Operations roles
